@@ -25,12 +25,7 @@ yarn-error.log*
 /node_modules
 
 # testing
-/coverage
-
-# production
-/build
-
-# misc
+/coverage # misc
 .DS_Store
 .env.local
 .env.development.local
